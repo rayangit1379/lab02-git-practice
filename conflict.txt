@@ -1,1 +1,2 @@
-﻿Line written on Main branch
+Line written on Main branch
+Line written on Branch 2 differently branch2
